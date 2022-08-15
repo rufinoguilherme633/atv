@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column; 
+    height: 450px;
+}
+
+.titulo1 {
+    height: 300px;
+    padding: 100px;
+}
+
+main  {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-image: linear-gradient(to right, #BBE0F2, #fcfafb);
+background-attachment: fixed;
+}
+
+
+.paragrafo1 {
+margin-top:90px;
+width: 950px;
+
+}
+
+.paragrafo2 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    
+}
+.filmes {
+    margin-top: 1px;
+}
+
+.imagem {
+    height: 330px;
+    border: 7px groove black;
+    border-radius: 30px;
+}
+
+.rodape {
+    margin: 30px;
+    text-align: center;
+}
